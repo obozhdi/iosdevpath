@@ -1,6 +1,4 @@
-# iosdevpath
-
-#Novice
+# Novice
 
  * Common
     * Use and understand basic types like Bool, Int, String, and Double
@@ -40,7 +38,7 @@
     * Write an app that displays a static list of items in a table view
 
 
-#Beginner
+# Beginner
 
 * Common
     * Work effectively with properties
@@ -79,7 +77,7 @@
     * Read data from a plist and store that in your table.
     * Write a master-detail app that displays a list of items based on user input from from multiple text fields on a different view. Each item should represent a model object that you have created. The list of items grow as the user enters additional data. The user should also be able to delete items from the table as requested. As you add each item to the table, save it to the device using NSUserDefaults. When you are done adding items you should be able to close the app and then use NSUserDefaults to load in the data that you had added before. 
 
-#intermediate
+# intermediate
 
 * Common
     * Create and conform to protocols to develop a blueprint of functionality
@@ -130,7 +128,7 @@
     * Write an app that can access the user's photos and use the camera to take new photos for use within the app.
     * Write a master-detail app that displays a list of items from a web service and, when an item is tapped, shows detail about the item
 
-#advanced
+# advanced
 
 * Common
     * Develop and use functions with variadic parameters
@@ -177,7 +175,7 @@
 * Challenges
     * Write an app that has several screens with relatively complex layouts. It should read and send data to a web service using OAuth 2 and store data in Core Data. It should also animate views based on user interaction and have a full suite of automated tests for the model and controller layers. Code should be structured well and be easy to reason about.
 
-#expert
+# expert
 
 * Common
     * 1111
