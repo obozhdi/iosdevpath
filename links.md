@@ -175,3 +175,5 @@ http://aplus.rs/2017/much-ado-about-ios-app-architecture/
 - https://github.com/Luur/SwiftTips#17-apply-gradient-to-navigation-bar
 
 - https://www.pointfree.co
+
+- https://medium.com/@dmytro.anokhin/notification-in-swift-d47f641282fa
